@@ -16,6 +16,9 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+  System.out.print("Hello");
+	System.out.print("Welcome to my app");
+
         productList lis= new productList(10);
         lis.setList();
         lis.output();
