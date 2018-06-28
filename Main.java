@@ -19,6 +19,7 @@ public class Main {
         productList lis= new productList(10);
         lis.setList();
         lis.output();
+        bleblebl
     }
     
 }
